@@ -48,7 +48,7 @@ hisaddrList=["www.hufs.ac.kr"]
 
 addr=tools()
 
-t=0
+
 
 v=0
 
