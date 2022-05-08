@@ -1,5 +1,5 @@
 #python algorithm
-#doubly linked list
+
 class tools:
     def __init__(self):
         self.n=-1
