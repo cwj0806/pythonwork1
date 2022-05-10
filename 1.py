@@ -1,10 +1,10 @@
 #python algorithm
 
 class tools:
-    def __init__(self):
-        self.n=-1
+    def __init__(self): 
+        self.n=-1  #현재 주소의 위치
         
-    def go(self,e):
+    def go(self,e): #현재 주소의 위치에 따른 주소 삽입
         if self.n==-1:
             addrList.append(e)        
             print(addrList[-1])
