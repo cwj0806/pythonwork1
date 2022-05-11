@@ -42,7 +42,7 @@ class tools:
     def quit(self):
         return True
 
-toolsList=['go','forward','backward','history','quit']
+toolsList=['go','forward','backward','history','quit'] #사용자 입력 도구 구분
 addrList=["www.hufs.ac.kr"]
 hisaddrList=["www.hufs.ac.kr"]
 
