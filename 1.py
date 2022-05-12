@@ -44,7 +44,7 @@ class tools:
 
 toolsList=['go','forward','backward','history','quit'] #사용자 입력 도구 구분
 addrList=["www.hufs.ac.kr"]
-hisaddrList=["www.hufs.ac.kr"]
+hisaddrList=["www.hufs.ac.kr"] #history 함수를 위함
 
 addr=tools()
 
