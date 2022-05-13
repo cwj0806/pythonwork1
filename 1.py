@@ -53,7 +53,7 @@ addr=tools()
 v=0
 
 
-while True:
+while True:  #사용자가 quit을 입력할 때 까지 반복
     a=input()
     temp=a.split()
     if v==0:
