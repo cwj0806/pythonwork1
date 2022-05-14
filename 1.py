@@ -1,5 +1,5 @@
 #python algorithm
-
+#주소 출력
 class tools:
     def __init__(self): 
         self.n=-1  #현재 주소의 위치
