@@ -1,6 +1,6 @@
 #python algorithm
 #주소 출력
-class tools:
+class tools:  #사용자가 입력할 명령어들
     def __init__(self): 
         self.n=-1  #현재 주소의 위치
         
