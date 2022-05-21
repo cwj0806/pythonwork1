@@ -6,5 +6,5 @@ class Node(object):
         self.right = None
 
 class BST:
-    def __init__(self, root):
-        self.root = root        
+    def __init__(self, e):
+        self.root = e        
