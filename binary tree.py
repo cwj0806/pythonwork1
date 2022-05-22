@@ -5,6 +5,6 @@ class Node(object):
         self.left = None
         self.right = None
 
-class BST:
+class BT:
     def __init__(self, e):
         self.root = e        
