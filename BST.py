@@ -107,9 +107,9 @@ while True:
         if BST.find==False:
             C.Printone(int(u[1]))
     elif u[0]=="D":
-        a=1
+        
     elif u[0]=="P":
-        a=2
+        
     elif u[0]=="Q":
         break
             
