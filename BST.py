@@ -3,7 +3,7 @@ class Node:
         self.left = self.right = None
         self.data = e
         
-class BinarySearchTree(object):
+class BST(object):
     def __init__(self):
         self.root = None
     def insert(self, data):
