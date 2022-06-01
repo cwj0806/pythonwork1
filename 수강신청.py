@@ -1,6 +1,6 @@
 class Student:
-    def __init__(self,stno, name):
-        self.stno = stno   # 학번
+    def __init__(self,stnum, name):
+        self.stno = stnum   # 학번
         self.name = name   # 이름
 
 class Course:    # 수업 
