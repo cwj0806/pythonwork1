@@ -1,7 +1,7 @@
 class Student:
-    def __init__(self,stnum, name):
+    def __init__(self,stnum, stname):
         self.stno = stnum   # 학번
-        self.name = name   # 이름
+        self.name = stname   # 이름
 
 class Course:    # 수업 
     def __init__(self):
